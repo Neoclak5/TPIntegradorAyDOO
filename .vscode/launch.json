@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TransportitApplication<transportit>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aydoo.transportit.TransportitApplication",
+            "projectName": "transportit",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
